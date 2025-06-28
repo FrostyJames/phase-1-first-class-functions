@@ -25,3 +25,4 @@ console.log(namedFn.name); // Output: "namedFunction"
 
 const anonymousFn = returnsAnAnonymousFunction();
 console.log(anonymousFn.name); // Output: "" (empty string, meaning it's anonymous)
+
